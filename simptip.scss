@@ -9,22 +9,22 @@
 
 // ****************************** Variables ****************************/
 //tooltip's default height
-$tooltipHeight: 22px;
+$tooltipHeight: 22px !default;
 
 //tooltip's default arrow size
-$arrowSize: 6px;
+$arrowSize: 6px !default;
 
 //tooltip's default box color
-$tooltipColor: #323232;
+$tooltipColor: #323232 !default;
 
 //tooltip's default text color
-$tooltipTextColor: #ecf0f1;
+$tooltipTextColor: #ecf0f1 !default;
 
 //diverse color variables
-$c-success: #62c462;
-$c-info:    #5bc0de;
-$c-danger:  #e74c3c;
-$c-warning: #e67e22;
+$c-success: #62c462 !default;
+$c-info:    #5bc0de !default;
+$c-danger:  #e74c3c !default;
+$c-warning: #e67e22 !default;
 
 
 // ******************************** Mixins *****************************/
